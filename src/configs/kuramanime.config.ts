@@ -1,5 +1,5 @@
 const kuramanimeConfig: IAnimeConfig = {
-  baseUrl: "https://kuramanime.ing",
+  baseUrl: "https://v19.kuramanime.ing",
 };
 
 export default kuramanimeConfig;
